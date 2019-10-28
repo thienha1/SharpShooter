@@ -1,0 +1,15 @@
+D:\SharpShooter\bin\Release\SharpShooter.exe.config
+D:\SharpShooter\bin\Release\SharpShooter.exe
+D:\SharpShooter\bin\Release\SharpShooter.pdb
+D:\SharpShooter\bin\Release\EnsoulSharp.Sandbox.dll
+D:\SharpShooter\bin\Release\EnsoulSharp.SDK.dll
+D:\SharpShooter\bin\Release\EnsoulSharp.Wrapper.dll
+D:\SharpShooter\bin\Release\SharpDX.Direct3D9.dll
+D:\SharpShooter\bin\Release\SharpDX.dll
+D:\SharpShooter\bin\Release\SPrediction.dll
+D:\SharpShooter\bin\Release\Newtonsoft.Json.dll
+D:\SharpShooter\obj\Release\SharpShooter.csprojAssemblyReference.cache
+D:\SharpShooter\obj\Release\SharpShooter.exe.config
+D:\SharpShooter\obj\Release\SharpShooter.csproj.CopyComplete
+D:\SharpShooter\obj\Release\SharpShooter.exe
+D:\SharpShooter\obj\Release\SharpShooter.pdb
